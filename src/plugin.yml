@@ -1,0 +1,12 @@
+name: Plugin
+author: MarcTheDev
+version: 1.0
+main: me.marcthedev.plugin.Main
+description: A small plugin
+commands:
+  test:
+    usage: /<command>
+    description: whatever.
+permissions:
+  test.permission:
+    default: true
