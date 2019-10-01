@@ -1,6 +1,6 @@
 name: Plugin
 author: MarcTheDev
-version: 1.0
+version: 1.0.0
 main: me.marcthedev.plugin.Main
 description: A small plugin
 commands:
